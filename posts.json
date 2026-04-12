@@ -7,7 +7,8 @@
       "date": "2026-04-12",
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/openai_anthropic/",
-      "description": "OpenAI와 Anthropic은 기업가치 합산 1조 달러를 넘어선 AI 최대 라이벌이다. 코딩 도구 Claude Code vs Codex를 중심으로 두 회사의 전략 차이와 향후 판세를 분석한다."
+      "description": "OpenAI와 Anthropic은 기업가치 합산 1조 달러를 넘어선 AI 최대 라이벌이다. 코딩 도구 Claude Code vs Codex를 중심으로 두 회사의 전략 차이와 향후 판세를 분석한다.",
+      "image": "https://heisenberg.kr/wp-content/uploads/2026/04/260405_YJ_OpenAI-Anthropic_hf_20260404_231231_99c1d7af-5522-4cf1-8984-f6197c66be91-scaled.png"
     },
     {
       "filename": "2026-04-12-ai-models-premier-league.md",
@@ -16,7 +17,8 @@
       "date": "2026-04-12",
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209118",
-      "description": "GPT-5.4, 클로드 오퍼스 4.6 등 최고 성능 AI 모델들을 현실 스포츠 베팅에 투입했더니 전원 손실을 기록했다. '정적인 벤치마크'로 측정되지 않는 현실 세계 의사결정 능력의 한계가 드러났다."
+      "description": "GPT-5.4, 클로드 오퍼스 4.6 등 최고 성능 AI 모델들을 현실 스포츠 베팅에 투입했더니 전원 손실을 기록했다. '정적인 벤치마크'로 측정되지 않는 현실 세계 의사결정 능력의 한계가 드러났다.",
+      "image": "https://cdn.aitimes.com/news/photo/202604/209118_211459_164.jpg"
     },
     {
       "filename": "2026-04-12-bok-rate-freeze-7th.md",
@@ -25,7 +27,8 @@
       "date": "2026-04-12",
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/article/2026041031181",
-      "description": "한국은행이 기준금리를 연 2.50%로 7회 연속 동결했다. 중동 전쟁발 유가 급등으로 물가는 오르는데 경제 성장률은 떨어지는 스태그플레이션 위험이 현실화되고 있다."
+      "description": "한국은행이 기준금리를 연 2.50%로 7회 연속 동결했다. 중동 전쟁발 유가 급등으로 물가는 오르는데 경제 성장률은 떨어지는 스태그플레이션 위험이 현실화되고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
     },
     {
       "filename": "2026-04-12-microsoft-maia200.md",
@@ -34,7 +37,8 @@
       "date": "2026-04-12",
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/ms_maia200/",
-      "description": "마이크로소프트가 공개한 자체 AI 가속기 Maia 200은 엔비디아 H100을 이기는 칩이 아니다. Azure 데이터센터에서 AI 추론 원가를 직접 통제하기 위한 전략 카드다."
+      "description": "마이크로소프트가 공개한 자체 AI 가속기 Maia 200은 엔비디아 H100을 이기는 칩이 아니다. Azure 데이터센터에서 AI 추론 원가를 직접 통제하기 위한 전략 카드다.",
+      "image": "https://heisenberg.kr/wp-content/uploads/2026/03/260401_%EC%A0%9C%EB%A1%9C%EC%8A%A4_Maia200.png"
     },
     {
       "filename": "2026-04-12-openclaw-ai-agent.md",
@@ -43,7 +47,8 @@
       "date": "2026-04-12",
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/openclaw_agent/",
-      "description": "오스트리아 개발자 피터 슈타인버거가 만든 AI 에이전트 OpenClaw가 젠슨 황의 극찬을 받으며 3개월 만에 OpenAI에 영입됐다. AI 산업의 무게중심이 '더 큰 모델'에서 '실제로 작동하는 자동화'로 이동하고 있다."
+      "description": "오스트리아 개발자 피터 슈타인버거가 만든 AI 에이전트 OpenClaw가 젠슨 황의 극찬을 받으며 3개월 만에 OpenAI에 영입됐다. AI 산업의 무게중심이 '더 큰 모델'에서 '실제로 작동하는 자동화'로 이동하고 있다.",
+      "image": "https://heisenberg.kr/wp-content/uploads/2026/03/%EB%94%94%EC%98%A8_%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C.png"
     },
     {
       "filename": "2026-04-12-nvidia-bio-arc-institute.md",
@@ -52,7 +57,8 @@
       "date": "2026-04-12",
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/arc-institute/",
-      "description": "엔비디아가 AI 칩 회사를 넘어 생명과학 연구 인프라의 핵심 플랫폼으로 자리잡고 있다. Arc Institute와의 협력을 통해 신약 개발보다 '연구 인프라 지배'를 택한 젠슨 황의 전략을 분석한다."
+      "description": "엔비디아가 AI 칩 회사를 넘어 생명과학 연구 인프라의 핵심 플랫폼으로 자리잡고 있다. Arc Institute와의 협력을 통해 신약 개발보다 '연구 인프라 지배'를 택한 젠슨 황의 전략을 분석한다.",
+      "image": "https://heisenberg.kr/wp-content/uploads/2026/03/270402_%EB%AA%A8%EB%9E%98%ED%86%A0%EB%81%BC_Arc-Institute.jpg"
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -62,15 +68,8 @@
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
-      "tags": [
-        "무스타파술레이만",
-        "마이크로소프트",
-        "스케일링법칙",
-        "AI인프라",
-        "HBM",
-        "GPU클러스터",
-        "AI성장"
-      ]
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80",
+      "tags": ["무스타파술레이만", "마이크로소프트", "스케일링법칙", "AI인프라", "HBM", "GPU클러스터", "AI성장"]
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -80,15 +79,8 @@
       "source": "아시아경제",
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
-      "tags": [
-        "딥엑스",
-        "엣지AI",
-        "NPU",
-        "온디바이스AI",
-        "현대차",
-        "로봇",
-        "K반도체"
-      ]
+      "image": "https://cphoto.asiae.co.kr/listimglink/1/2025120313035441647_1764734634.jpg",
+      "tags": ["딥엑스", "엣지AI", "NPU", "온디바이스AI", "현대차", "로봇", "K반도체"]
     },
     {
       "filename": "2026-04-11-samsung-socamm2-soldering.md",
@@ -98,15 +90,8 @@
       "source": "전자신문",
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
-      "tags": [
-        "삼성전자",
-        "소캠2",
-        "SOCAMM2",
-        "엔비디아",
-        "베라루빈",
-        "HBM",
-        "AI메모리"
-      ]
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "tags": ["삼성전자", "소캠2", "SOCAMM2", "엔비디아", "베라루빈", "HBM", "AI메모리"]
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -116,13 +101,8 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
-      "tags": [
-        "앤트로픽",
-        "멀티에이전트",
-        "AI 자동화",
-        "Claude",
-        "에이전트 아키텍처"
-      ]
+      "image": "https://cdn.aitimes.com/news/photo/202604/209112_211461_3131.jpg",
+      "tags": ["앤트로픽", "멀티에이전트", "AI 자동화", "Claude", "에이전트 아키텍처"]
     }
   ]
 }
