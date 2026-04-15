@@ -8,7 +8,7 @@
       "source": "조선일보·비즈니스포스트",
       "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/01/18/LMC7XULHNNGOJGLIAYOE7FU274/",
       "description": "트럼프 행정부가 메모리 반도체까지 겨냥한 100% 관세 카드를 꺼냈다. 삼성전자와 SK하이닉스는 현실적으로 미국 내 메모리 생산이 불가능한 상황에서 압박 수위만 높아지는 딜레마에 처해 있다.",
-      "image": ""
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80"
     },
     {
       "filename": "2026-04-16-meta-llama4-multimodal.md",
@@ -18,7 +18,7 @@
       "source": "AI타임스 / Meta AI Blog",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209175",
       "description": "메타가 총 파라미터 400B(4천억)짜리 Llama 4 Maverick을 포함한 라마4 시리즈를 공개했다. GPT-4o와 Gemini 2.0 Flash를 광범위한 벤치마크에서 앞섰으며, 오픈소스로 무료 배포된다.",
-      "image": ""
+      "image": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=800&q=80"
     },
     {
       "filename": "2026-04-16-deepmind-molecule-design-ai.md",
@@ -28,7 +28,7 @@
       "source": "Isomorphic Labs (공식 블로그)",
       "sourceUrl": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
       "description": "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 AlphaFold 3의 정확도를 두 배 이상 뛰어넘는 신약 설계 AI 시스템 IsoDDE를 공개했다. 단백질 구조 예측을 넘어 결합력 예측·신규 결합 부위 발굴까지 통합된 최초의 범용 약물 설계 엔진이다.",
-      "image": ""
+      "image": "https://cdn.prod.website-files.com/6846c7b5a78f3e9225c64f10/6989e3d45b7a3c2eb3795578_beyond-alphafold-with-isomorphic-labs-drug-design-engine_l.jpg"
     },
     {
       "filename": "2026-04-16-ai-agents-state-2026.md",
@@ -38,7 +38,7 @@
       "source": "Stanford HAI / Forbes",
       "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
       "description": "스탠퍼드 HAI가 발표한 2026 AI 인덱스 리포트의 핵심 수치들. AI 에이전트의 실제 작업 성공률이 18개월 만에 12%에서 77.3%로 급등하며 인간 수준에 바짝 다가섰다.",
-      "image": ""
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
     },
     {
       "filename": "2026-04-12-chatgpt-vs-claude.md",
