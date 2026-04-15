@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-04-16-trump-tariff-semiconductor.md",
+      "title": "메모리까지 100% 관세? 트럼프의 반도체 압박, 삼성·SK하이닉스가 처한 딜레마",
+      "category": "경제·주식",
+      "date": "2026-04-16",
+      "source": "조선일보·비즈니스포스트",
+      "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/01/18/LMC7XULHNNGOJGLIAYOE7FU274/",
+      "description": "트럼프 행정부가 메모리 반도체까지 겨냥한 100% 관세 카드를 꺼냈다. 삼성전자와 SK하이닉스는 현실적으로 미국 내 메모리 생산이 불가능한 상황에서 압박 수위만 높아지는 딜레마에 처해 있다.",
+      "image": ""
+    },
+    {
+      "filename": "2026-04-16-meta-llama4-multimodal.md",
+      "title": "메타, 라마4 공개 — 멀티모달 오픈소스 AI 최강자 등극 선언",
+      "category": "AI",
+      "date": "2026-04-16",
+      "source": "AI타임스 / Meta AI Blog",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209175",
+      "description": "메타가 총 파라미터 400B(4천억)짜리 Llama 4 Maverick을 포함한 라마4 시리즈를 공개했다. GPT-4o와 Gemini 2.0 Flash를 광범위한 벤치마크에서 앞섰으며, 오픈소스로 무료 배포된다.",
+      "image": ""
+    },
+    {
+      "filename": "2026-04-16-deepmind-molecule-design-ai.md",
+      "title": "AlphaFold를 넘어서 — 구글 딥마인드의 신약 설계 AI, IsoDDE 공개",
+      "category": "바이오",
+      "date": "2026-04-16",
+      "source": "Isomorphic Labs (공식 블로그)",
+      "sourceUrl": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "description": "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 AlphaFold 3의 정확도를 두 배 이상 뛰어넘는 신약 설계 AI 시스템 IsoDDE를 공개했다. 단백질 구조 예측을 넘어 결합력 예측·신규 결합 부위 발굴까지 통합된 최초의 범용 약물 설계 엔진이다.",
+      "image": ""
+    },
+    {
+      "filename": "2026-04-16-ai-agents-state-2026.md",
+      "title": "AI 에이전트, 인간 수준에 근접했다 — 스탠퍼드 2026 AI 인덱스",
+      "category": "AI",
+      "date": "2026-04-16",
+      "source": "Stanford HAI / Forbes",
+      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "description": "스탠퍼드 HAI가 발표한 2026 AI 인덱스 리포트의 핵심 수치들. AI 에이전트의 실제 작업 성공률이 18개월 만에 12%에서 77.3%로 급등하며 인간 수준에 바짝 다가섰다.",
+      "image": ""
+    },
+    {
       "filename": "2026-04-12-chatgpt-vs-claude.md",
       "title": "ChatGPT vs Claude, AI 박사도 못 고르는 이유",
       "category": "AI",
